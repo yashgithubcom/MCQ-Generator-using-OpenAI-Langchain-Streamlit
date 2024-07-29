@@ -5,16 +5,14 @@ This project uses OpenAI, Langchain, and Streamlit to create an interactive Mult
 ## Project Structure
 ```
 MCQ-Generator-main/
-├── .gitignore
 ├── README.md
-├── doubt.txt
 ├── mcq_training_data.txt
 ├── requirements.txt
 ├── response.json
 ├── setup.py
 ├── streamlit.py
 ├── experiments/
-│   ├── machine_learning_quiz.csv
+│   ├── biology.csv
 │   └── mcq.ipynb
 └── src/
     ├── __init__.py
