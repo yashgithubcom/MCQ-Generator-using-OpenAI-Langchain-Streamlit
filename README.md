@@ -1,23 +1,7 @@
 ```markdown
 # MCQ-Generator-using-OpenAI-Langchain-Streamlit
-
-**Author:** Muhammad Adil Naeem  
-[GitHub](https://github.com/yashgithubcom) | [LinkedIn](https://www.linkedin.com/in/yash-jagtap-170991213/)
-
-## Overview
 This project uses OpenAI, Langchain, and Streamlit to create an interactive Multiple Choice Question (MCQ) generator. Users can input a topic to generate MCQs with options and answers. The user-friendly Streamlit interface and OpenAI's intelligent language processing make it easy to create and refine educational content.
 
-## Table of Contents
-- [Overview](#overview)
-- [Table of Contents](#table-of-contents)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Data](#data)
-- [Experiments](#experiments)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Structure
 ```
@@ -70,4 +54,4 @@ The `experiments` directory contains a Jupyter notebook (`mcq.ipynb`) and a CSV 
 
 ## Acknowledgements
 We would like to thank the developers of LangChain and Streamlit for their excellent tools and frameworks. Also, ineuron, for giving us the opportunity to work on this project.
-```
+
